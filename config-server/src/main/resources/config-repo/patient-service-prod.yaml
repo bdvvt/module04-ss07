@@ -19,7 +19,7 @@ spring:
         format_sql: true
 
 server:
-  port: 8081
+  port: 8083
 
 message: "Chao mung den voi Patient Service tu Config Server"
 
